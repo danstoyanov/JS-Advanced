@@ -20,5 +20,5 @@ function calculate(num1, num2, inputFunc) {
   console.log(currValue);
 }
 
-
+// JS complete !
 calculate(3, 5.5, '*');
