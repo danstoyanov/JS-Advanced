@@ -7,5 +7,7 @@ function output(deff){
 }
 
 output("Hello JavaScript");
+output("Hello JavaScript");
+output("Hello JavaScript");
 output("Hi man!!!");
 output("Hi !!!");
